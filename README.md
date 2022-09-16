@@ -1,2 +1,2 @@
 # grid-layout
-I created a static page using grid layout. Haven't worked on responsiveness yet.
+I created a static page using grid layout. The page is not yet responsive.
